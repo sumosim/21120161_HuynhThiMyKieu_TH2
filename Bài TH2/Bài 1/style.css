@@ -1,0 +1,32 @@
+.container
+{   width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    border-color: blue;
+
+}
+.input
+{ 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 2.5;
+    color:blue;
+
+
+}
+.btn
+{
+    background-color: pink;
+    color: rgb(52, 35, 35);
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.result{
+    margin-top: 10px;
+    style="font-weight: bold;
+    color:pink;
+}

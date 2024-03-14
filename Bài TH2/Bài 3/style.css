@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+    border-bottom: 2px solid rgb(212, 54, 14); /* Đường viền dưới có độ dày 2px và màu đen */
+    padding-bottom: 5px; /* Khoảng cách giữa tiêu đề và đường viền */
+    max-width: 800px; /* Giới hạn chiều dài của đường viền */
+
+}
+.container{
+            margin-left: 50px;
+            margin-right: 50px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            border-color: aqua;
+            line-height: 2;
+            width: 1000px;
+
+           
+        }
+        
+.ntn{
+    color:rgb(44, 97, 97);
+}
